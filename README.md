@@ -5,8 +5,9 @@ Welcome to my GitHub! I'm Paola, an undegraduate Economy student at PUCP, Lima P
 - Programa Nacional de Becas y Crédito Educativo scholarship holder
 
 ### ✔️ I'm currently learning
-- JavaScript
+- Excel
 - English
+- Programming in Stata and PYTHON
 
 ### 👩‍💻 I'm working on
 - Looking for new projects related to my studies. Working on my thesis.
